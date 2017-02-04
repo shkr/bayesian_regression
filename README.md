@@ -1,2 +1,3 @@
 # bayesian_regression
-Bayesian Regression Models using pymc3
+---
+* [clrm](https://github.com/shkr/bayesian_regression/tree/master/clrm)
